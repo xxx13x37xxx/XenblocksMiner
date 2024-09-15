@@ -13,7 +13,7 @@ Execute the following commands in your terminal:
 
 ```bash
 sudo apt install build-essential tar curl zip unzip git cmake ninja-build
-git clone https://github.com/woodysoil/XenblocksMiner.git
+git clone https://github.com/xxx13x37xxx/XenblocksMiner.git
 cd XenblocksMiner
 git submodule init
 git submodule update
